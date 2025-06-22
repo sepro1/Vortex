@@ -1,3 +1,3 @@
-#Vortex
+Vortex
 
-#Press Insert to open ClickGUI
+Press Insert to open ClickGUI
